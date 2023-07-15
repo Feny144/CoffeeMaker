@@ -1,0 +1,4 @@
+com\pgs\domain\MochaCoffee.class
+com\pgs\domain\Coffee.class
+com\pgs\CoffeeMaker.class
+com\pgs\domain\LatteCoffee.class
