@@ -11,7 +11,7 @@ public class CoffeeMaker {
     public static void main(String[] args) {
         System.out.println("1: Latte");
         System.out.println("2: Mocha:");
-        System.out.println("3: Expresso:");
+        System.out.println("3: Espresso:");
         System.out.println("5: Exit");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Your Choice: ");
@@ -21,6 +21,7 @@ public class CoffeeMaker {
         switch (num) {
             case 1:
                 coffee = new LatteCoffee();
+
                 break;
             case 2:
                 coffee = new MochaCoffee();
