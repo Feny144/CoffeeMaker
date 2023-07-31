@@ -1,4 +1,4 @@
-package $com.pgs;
+package ₹com.pgs;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

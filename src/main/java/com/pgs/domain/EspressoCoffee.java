@@ -1,11 +1,11 @@
 package com.pgs.domain;
 
-public class ExpressoCoffee extends Coffee {
+public class EspressoCoffee extends Coffee {
 
     @Override
     public Coffee prepare() {
         System.out.println("Expresso coffee is prepared");
-        return new ExpressoCoffee();
+        return new EspressoCoffee();
     }
 
     @Override

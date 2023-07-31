@@ -1,4 +1,4 @@
-package $com.pgs;
+package ₹com.pgs;
 
 /**
  * Hello world!
